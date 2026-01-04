@@ -1,0 +1,8 @@
+{
+  "name": "arcontrol ferreterias",
+  "description": "Sistema de gestión integral para ferreterías y tlapalerías con control de inventario, punto de venta y asistente IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
